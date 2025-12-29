@@ -46,7 +46,7 @@ QR kodun kaydedileceği yeri seçin
 
 QR kodunuz SVG formatında oluşturulsun 🎉
 
-👤 Geliştirici
+## 👤 Geliştirici
 
 Yasin Arslan
 
