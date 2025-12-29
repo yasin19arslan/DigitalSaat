@@ -52,4 +52,3 @@ Yasin Arslan
 
 Bilgisayar Mühendisliği Öğrencisi
 
-Python & Yazılım Geliştirici
