@@ -18,13 +18,6 @@ Kullanıcıdan alınan URL bilgisini QR koda dönüştürür ve **SVG formatınd
 - **pyqrcode** – QR kod oluşturma
 - **tkinter.filedialog** – Dosya kaydetme penceresi
 
-## 📂 Proje Dosya Yapısı
-
-QR-Kod-Olusturucu/
-│
-├── DigitalSaat.py
-└── README.md
-
 ## 🚀 Kurulum ve Çalıştırma
 
 ### 1️⃣ Gerekli Kütüphaneleri Yükleyin
@@ -50,5 +43,5 @@ QR kodunuz SVG formatında oluşturulsun 🎉
 
 Yasin Arslan
 
-Bilgisayar Mühendisliği Öğrencisi
+Bilgisayar Mühendisi
 
