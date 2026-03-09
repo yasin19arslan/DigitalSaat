@@ -25,7 +25,7 @@ Kullanıcıdan alınan URL bilgisini QR koda dönüştürür ve **SVG formatınd
 ```bash
 pip install pyqrcode pypng
 Not: pypng, QR kodun düzgün oluşturulabilmesi için gereklidir.
-python DigitalSaat.py
+python QR_olusturucu.py
 ```
 ## 🖥️ Uygulama Kullanımı
 
